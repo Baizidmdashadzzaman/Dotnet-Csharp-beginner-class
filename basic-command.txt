@@ -1,0 +1,13 @@
+#for version check
+->dotnet --version
+#for command check
+->dotnet --help
+#for creating
+->dotnet new --help
+#for checking types of project list/template
+->dotnet new list
+#for creating a console app
+->dotnet new console
+#run the project
+->dotnet run
+

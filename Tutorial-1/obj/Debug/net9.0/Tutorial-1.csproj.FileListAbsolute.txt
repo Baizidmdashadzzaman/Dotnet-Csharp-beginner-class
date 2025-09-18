@@ -1,0 +1,14 @@
+M:\Dotnet\Tutorial-1\bin\Debug\net9.0\Tutorial-1.exe
+M:\Dotnet\Tutorial-1\bin\Debug\net9.0\Tutorial-1.deps.json
+M:\Dotnet\Tutorial-1\bin\Debug\net9.0\Tutorial-1.runtimeconfig.json
+M:\Dotnet\Tutorial-1\bin\Debug\net9.0\Tutorial-1.dll
+M:\Dotnet\Tutorial-1\bin\Debug\net9.0\Tutorial-1.pdb
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.GeneratedMSBuildEditorConfig.editorconfig
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.AssemblyInfoInputs.cache
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.AssemblyInfo.cs
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.csproj.CoreCompileInputs.cache
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.dll
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\refint\Tutorial-1.dll
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.pdb
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.genruntimeconfig.cache
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\ref\Tutorial-1.dll
