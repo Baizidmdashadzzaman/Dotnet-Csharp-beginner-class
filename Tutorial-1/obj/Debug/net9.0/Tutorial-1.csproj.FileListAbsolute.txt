@@ -12,3 +12,4 @@ M:\Dotnet\Tutorial-1\obj\Debug\net9.0\refint\Tutorial-1.dll
 M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.pdb
 M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.genruntimeconfig.cache
 M:\Dotnet\Tutorial-1\obj\Debug\net9.0\ref\Tutorial-1.dll
+M:\Dotnet\Tutorial-1\obj\Debug\net9.0\Tutorial-1.sourcelink.json

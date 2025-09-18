@@ -10,4 +10,8 @@
 ->dotnet new console
 #run the project
 ->dotnet run
+#run with hotreload
+->dotnet watch
 
+#for package install
+->dotnet add package packagename //https://www.nuget.org/
