@@ -11,8 +11,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Hello, World without new line!");
-        Console.WriteLine("Hello, World!");
+        Console.Write("Hello, World without new line!\n");
+        Console.WriteLine("\t Hello, World!");
         System.Console.WriteLine("Hello, World2!");
     }
 }
